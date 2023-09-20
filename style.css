@@ -835,7 +835,6 @@ hr {
 @media screen and (max-width: 395px){
     .img-container-skill {
         grid-template-columns: repeat(2, 1fr);
-        margin-left: .3rem;
     }
     .project-box-item{
         width: 21rem;
